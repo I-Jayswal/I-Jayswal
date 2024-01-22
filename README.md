@@ -9,7 +9,7 @@ Welcome to my GitHub repository! I'm a seasoned software engineer with 3.5 years
 Software Engineering Journey
 Over the past 3.5 years, I have been actively engaged in the field of software engineering, contributing to diverse projects and gaining expertise in various technologies. My work spans from frontend development using modern frameworks to backend systems and API development.
 
--** Applied AI Solutions**
+- ** Applied AI Solutions**
 
 My current focus lies in the exciting realm of Applied AI solutions. This involves leveraging artificial intelligence to solve real-world problems and enhance the capabilities of software systems. As I explore this cutting-edge field, I'll be sharing my experiments, projects, and insights here on GitHub.
 
